@@ -1,7 +1,7 @@
-# HACKATON
+# HACKATHON
 
 # Projet de formation :
-1er hackaton à la Wild Code School
+1er hackathon à la Wild Code School
 Projet à réaliser sur 2 jours
 
 # Sujet :
